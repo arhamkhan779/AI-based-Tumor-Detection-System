@@ -1,7 +1,3 @@
-Here’s the updated README with the video link properly embedded:
-
----
-
 # AI-Based Brain MRI Tumor Detection System
 
 ## Demo Video
@@ -98,7 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Special thanks to the contributors and libraries that facilitated the project, especially the YOLO model for object detection.
-
----
-
-Let me know if there are any other changes you’d like to make!
